@@ -1,5 +1,5 @@
 ## YouTube Channel: Emerging Technologies
-## Playlist: Introduction_to_AI
+## Playlist: Introduction to AI
 ### Instructor: Zeeshan-ul-hassan Usmani
 
 Dear Students,
