@@ -94,12 +94,19 @@ A very nice book on the failed enterprise of using logic to build a firm foundat
 An interesting biography of Kurt Gödel. Too bad he was such a Platonist that, unlike Turing, he did not understand the true implications of his own theorems (interesting author connection: Goldstein is Pinker's wife).
 
 
+
 Links:
+
 •	AAAI AI Topics Basic info on AI from the American Association for Artificial Intelligence: http://www.aaai.org/AITopics/html/welcome.html 
+
 •	Loebner Prize for limited Turing test: http://www.loebner.net/Prizef/loebner-prize.html 
+
 •	IBM's Deep Blue Page: http://www.research.ibm.com/deepblue/
+
 •	Robocup: Robotic Soccer Competition: http://www.robocup.org/
+
 •	NY Times Article on Proof of the Robbins Theorem: http://www.nytimes.com/library/cyber/week/1210math.html
+
 •	NY Times article on Bayes Nets at Microsoft Research: http://www.nytimes.com/library/tech/00/07/biztech/articles/17lab.html
 
 ===========================================
